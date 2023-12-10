@@ -223,19 +223,19 @@ FROM Compra;
 ___
 **5. Relatórios analíticos**
 
-**Relatório de clientes cadastrados**
+Relatório de clientes cadastrados
 
 
 ![Captura de Tela (382)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/128331107/633bdd56-1759-4cc0-9532-96b92c639237)
 
 
-**Relatório de medicamentos cadastrados** 
+Relatório de medicamentos cadastrados 
 
 
 ![Captura de Tela (433)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/128331107/0238f8ff-2c54-4835-a8fc-92dd1585102b)
 
 
-**Relatório de vendas** 
+Relatório de vendas
 
 
 ![Captura de Tela (388)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/128331107/beb764a9-678d-4a1c-be38-085b9be581a5)
@@ -243,15 +243,25 @@ ___
 
  
 ___
-**Associação de comandos SQL com relatórios analíticos**
+**6. Associação de comandos SQL com relatórios analíticos**
 
 
 ![Captura de Tela (434)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/128331107/17679e5d-4fb6-40c6-b6bf-c2223b8277c6)
 
  
 
- 
+___
+**5.1 Indicadores de desempenho** 
 
+
+![Captura de Tela (436)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/128331107/c534318b-2167-4886-a558-ae038e4f67fd)
+
+
+___
+**Conclusão** 
+
+
+O presente trabalho aborda a automação do processo de negócio relacionado a uma farmácia, visando aprimorar a eficiência operacional e a experiência do usuário. A etapa em foco concentrou-se na automatização dos processos modelados, utilizando a ferramenta Sydle One, uma plataforma de desenvolvimento low code. O desenvolvimento incluiu a criação de papéis, a programação de scripts, e a execução de instâncias dos processos. Como resultado, observamos uma significativa melhoria na fluidez e gestão dos procedimentos, contribuindo para uma operação mais eficiente e um atendimento mais ágil aos clientes. Este avanço reflete diretamente na qualidade do serviço prestado pela farmácia, demonstrando a viabilidade e o impacto positivo da automação no contexto proposto.
 
 ___
 **REFERÊNCIAS** 
