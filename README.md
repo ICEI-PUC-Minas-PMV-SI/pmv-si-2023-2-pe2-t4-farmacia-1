@@ -1,6 +1,7 @@
 # Farmácia
 
-**Resumo**
+**Resumo:**
+Nosso projeto tem como objetivo otimizar as atividades dentro de uma farmácia, seja em tempo ou praticidade de atividades como: cadastro de clientes, cadastro de medicamentos e o processo de vendas. 
 
 ## Integrantes
 
