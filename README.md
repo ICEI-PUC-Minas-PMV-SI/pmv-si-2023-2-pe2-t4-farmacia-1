@@ -243,7 +243,7 @@ ___
 
  
 ___
-** Associação de comandos SQL com relatórios analíticos **
+**Associação de comandos SQL com relatórios analíticos**
 
 
 ![Captura de Tela (434)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/128331107/17679e5d-4fb6-40c6-b6bf-c2223b8277c6)
