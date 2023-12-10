@@ -198,3 +198,33 @@ Impactos: O uso do banco de dados NoSQL pode envolver custos adicionais de permi
 
 ![Captura de Tela (425)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/128331107/8ad23ff8-64f5-45a4-a01e-10590761a315)
 
+___
+Consultas com SQL de acordo com as necessidades informacionais dos usuários dos processos modelados 
+
+**Consulta 1: Estoque Atual de Medicamentos** 
+
+SELECT num_medicamento, nome, preço 
+
+FROM Medicamentos; 
+
+**Consulta 2: Listar Todos os Clientes** 
+
+SELECT id_cliente, nome, cpf, telefone, email, 
+
+FROM Clientes; 
+
+**Consulta 3: Listar todas as compras**
+
+SELECT num_pedido, id_cliente, valor 
+
+FROM Compra; 
+
+___
+**5. Relatórios analíticos**
+
+___
+**REFERÊNCIAS** 
+
+Confederação Nacional de Municípios, “Pesquisa da CNM revela que 65,2% dos Municípios enfrentam falta de medicamentos básicos nas farmácias”. Publicado em 27/09/2022. Disponível em < https://www.cnm.org.br/comunicacao/noticias/pesquisa-da-cnm-revela-que-65-2-dos-municipios-enfrentam-falta-medicamentos-basicos-nas-farmacias > Acesso em 27 de set de 2023 
+
+G1, “População idosa sobe para 15,1% em 2022, diz IBGE” Publicado em 16/06/2023 10h56. Disponível em < https://g1.globo.com/economia/noticia/2023/06/16/populacao-idosa-sobe-para-151percent-em-2022-diz-ibge.ghtml > Acesso em 27 de set de 2023.  
