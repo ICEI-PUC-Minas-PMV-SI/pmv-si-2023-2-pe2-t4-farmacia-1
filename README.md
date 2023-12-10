@@ -135,11 +135,22 @@ Foram identificados processos essenciais para o bom funcionamento de uma farmác
 
 Atualmente para fazer o cadastro de medicamentos no estoque é necessário preencher uma lista com as informações básicas do produto, preço, quantidade adquirida e sua localização no estabelecimento, à medida que os medicamentos forem vendidos é necessária a atualização dessa planilha, porém essa tarefa pode ser negligenciada devido ao fluxo de clientes causando transtorno caso o medicamento em questão esteja constando na planilha, mas esteja em falta fisicamente. A utilização da lista dificulta a pesquisa por categoria, consulta de informações mais detalhadas sobre os medicamentos, alteração de preço, relatórios de gestão e etc. o que aumenta o tempo gasto em uma tarefa que precisa ser simples e rápida.  
 
-![AS IS Cadastro de Medicamentos]
+|![Screenshot_64](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/98671803/fee0e882-4349-48cf-b564-786734b343d4)|
+|:--:| 
+| *<sub> Processo da Situação Atual - Cadastro de medicamentos.</sub>* |
 
 Cadastro de cliente: para efetuar o cadastro de clientes o funcionário deve acessar a planilha de clientes e preencher as informações pessoais como nome, CPF, telefone, endereço e e-mail. Esse método não é eficiente pois pode ocorrer a duplicidade de cadastro, há dificuldade de ter um relacionamento com o cliente tendo em vista que a planilha reúne informações padrão e dados importantes como medicamentos comprados com frequência, podem deixar de serem acrescentados.  
 
+|![Screenshot_74](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/98671803/9ff9444c-1d27-44ad-96d7-566c53451944)|
+|:--:| 
+| *<sub> Processo da Situação Atual - Cadastro de Clientes.</sub>* |
+
 Venda: o cliente se dirige ao balcão e solicita a medicação, o balconista vai até o estoque, consulta o preço e a disponibilidade do produto e então se dirige a prateleira, mas devido a um erro a localização do produto não estava correta então o atendente precisa procurar nas prateleiras até localizar o medicamento que é entregue ao cliente que aguardava próximo ao balcão, enquanto possivelmente outros clientes chegaram para serem atendidos. O cliente se dirige ao caixa para realizar o pagamento e a venda é concluída. Podemos perceber mais uma vez as desvantagens dos processos atuais, o tempo para realização do atendimento seria menor e as tarefas se tornariam mais simples com a automatização dos processos. 
+
+
+|![Screenshot_80](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/98671803/4bdbda83-405f-4b72-9c76-946c6b570795)|
+|:--:| 
+| *<sub> Processo da Situação Atual - Vendas.</sub>* |
 
 **3.2.  Modelagem dos processos aprimorados (TO-BE)**
 
@@ -147,18 +158,27 @@ Nesta seção, descreveremos e analisaremos a proposta de solução para o proce
 
 Processo de Cadastro de medicamentos: O processo de cadastro e gerenciamento de estoque é crucial para garantir que a farmácia tenha medicamentos disponíveis para os clientes quando necessário.  
 
-Os medicamentos são recebidos de fornecedores na loja e então o funcionário deve reunir toda a documentação necessária do medicamento como a data de fabricação, efeitos colaterais e instruções de uso. Sendo aprovado é preenchido o cadastro com o nome do remédio, tipo do remédio, número de identificação, preço e localização na loja. Assim atualizando o cadastro de medicamentos. Portanto esse processo será inserido para além de ter uma organização maior, passar um bom produto para o consumidor.   
+Os medicamentos são recebidos de fornecedores na loja e então o funcionário deve reunir toda a documentação necessária do medicamento como a data de fabricação, efeitos colaterais e instruções de uso. Sendo aprovado é preenchido o cadastro com o nome do remédio, tipo do remédio, número de identificação, preço e localização na loja. Assim atualizando o cadastro de medicamentos. Portanto esse processo será inserido para além de ter uma organização maior, passar um bom produto para o consumidor.  
+
+|![Screenshot_69](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/98671803/3e4bd072-b11c-45c7-b484-1b59bb3fe415)|
+|:--:| 
+| *<sub> Processo Aprimorado - Cadastro de Medicamentos.</sub>* |
 
 Cadastro do Cliente: O atendente pergunta se o cliente tem ou tenha interesse em se cadastrar na loja. Caso ele tenha o cadastro o funcionário verifica os dados e finaliza a tarefa. 
 
 Portanto, esse processo é um melhoramento do processo AS IS visto que deixa o cadastro de cliente mais robusto. 
- 
+|![Screenshot_71](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/98671803/a310ec46-0161-49a0-ab3b-d4efa77a45e0)|
+|:--:| 
+| *<sub> Processo Aprimorado - Cadastro de Clientes.</sub>* |
 
 Vendas: O processo de venda de medicamentos é uma parte fundamental das operações de uma farmácia. Com a implementação do novo sistema, aprimoraremos esse processo para torná-lo mais eficiente, preciso e prático.  
 
 O cliente pergunta se tem a disponibilidade do remédio que ele quer comprar, assim ocasiona a procura no estoque e diz se tem ou não, se tiver será informado o preço do medicamento ao cliente e deve perguntar se o consumidor vai querer concluir a compra. 
 
- ___
+|![Screenshot_72](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/98671803/98d22a5a-1ce8-4f55-abd5-c3f8836465a3)|
+|:--:| 
+| *<sub> Processo Aprimorado - Vendas.</sub>* |
+___
 
  **4. Projeto da arquitetura de dados da solução proposta**
 
