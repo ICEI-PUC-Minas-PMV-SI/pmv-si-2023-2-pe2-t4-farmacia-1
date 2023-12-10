@@ -258,7 +258,7 @@ ___
 
 
 ___
-**Conclusão** 
+**7. Conclusão** 
 
 
 O presente trabalho aborda a automação do processo de negócio relacionado a uma farmácia, visando aprimorar a eficiência operacional e a experiência do usuário. A etapa em foco concentrou-se na automatização dos processos modelados, utilizando a ferramenta Sydle One, uma plataforma de desenvolvimento low code. O desenvolvimento incluiu a criação de papéis, a programação de scripts, e a execução de instâncias dos processos. Como resultado, observamos uma significativa melhoria na fluidez e gestão dos procedimentos, contribuindo para uma operação mais eficiente e um atendimento mais ágil aos clientes. Este avanço reflete diretamente na qualidade do serviço prestado pela farmácia, demonstrando a viabilidade e o impacto positivo da automação no contexto proposto.
