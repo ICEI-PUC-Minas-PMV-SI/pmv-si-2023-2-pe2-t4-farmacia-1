@@ -135,6 +135,8 @@ Foram identificados processos essenciais para o bom funcionamento de uma farmác
 
 Atualmente para fazer o cadastro de medicamentos no estoque é necessário preencher uma lista com as informações básicas do produto, preço, quantidade adquirida e sua localização no estabelecimento, à medida que os medicamentos forem vendidos é necessária a atualização dessa planilha, porém essa tarefa pode ser negligenciada devido ao fluxo de clientes causando transtorno caso o medicamento em questão esteja constando na planilha, mas esteja em falta fisicamente. A utilização da lista dificulta a pesquisa por categoria, consulta de informações mais detalhadas sobre os medicamentos, alteração de preço, relatórios de gestão e etc. o que aumenta o tempo gasto em uma tarefa que precisa ser simples e rápida.  
 
+![AS IS Cadastro de Medicamentos]
+
 Cadastro de cliente: para efetuar o cadastro de clientes o funcionário deve acessar a planilha de clientes e preencher as informações pessoais como nome, CPF, telefone, endereço e e-mail. Esse método não é eficiente pois pode ocorrer a duplicidade de cadastro, há dificuldade de ter um relacionamento com o cliente tendo em vista que a planilha reúne informações padrão e dados importantes como medicamentos comprados com frequência, podem deixar de serem acrescentados.  
 
 Venda: o cliente se dirige ao balcão e solicita a medicação, o balconista vai até o estoque, consulta o preço e a disponibilidade do produto e então se dirige a prateleira, mas devido a um erro a localização do produto não estava correta então o atendente precisa procurar nas prateleiras até localizar o medicamento que é entregue ao cliente que aguardava próximo ao balcão, enquanto possivelmente outros clientes chegaram para serem atendidos. O cliente se dirige ao caixa para realizar o pagamento e a venda é concluída. Podemos perceber mais uma vez as desvantagens dos processos atuais, o tempo para realização do atendimento seria menor e as tarefas se tornariam mais simples com a automatização dos processos. 
@@ -162,7 +164,7 @@ O cliente pergunta se tem a disponibilidade do remédio que ele quer comprar, as
 
  **4.1. Diagrama de Entidades e Relacionamentos (DER)**
 
- 
+ ![Captura de Tela (424)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/128331107/e935c1e1-e3a2-4429-839e-4e9e814e6f83)
 
 **4.2. Impactos da implementação em um banco de dados NoSQL**
 
@@ -174,4 +176,5 @@ Impactos: O uso do banco de dados NoSQL pode envolver custos adicionais de permi
 
 **4.3. Modelo relacional**
 
+![Captura de Tela (425)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/128331107/8ad23ff8-64f5-45a4-a01e-10590761a315)
 
