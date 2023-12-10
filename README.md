@@ -223,6 +223,31 @@ FROM Compra;
 ___
 **5. Relatórios analíticos**
 
+**Relatório de clientes cadastrados**
+
+
+![Captura de Tela (382)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/128331107/633bdd56-1759-4cc0-9532-96b92c639237)
+
+
+**Relatório de medicamentos cadastrados** 
+
+
+![Captura de Tela (433)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/128331107/0238f8ff-2c54-4835-a8fc-92dd1585102b)
+
+
+**Relatório de vendas** 
+
+
+![Captura de Tela (388)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-farmacia-1/assets/128331107/beb764a9-678d-4a1c-be38-085b9be581a5)
+
+
+ 
+
+ 
+
+ 
+
+
 ___
 **REFERÊNCIAS** 
 
