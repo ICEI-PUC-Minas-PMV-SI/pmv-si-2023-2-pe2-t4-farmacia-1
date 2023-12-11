@@ -6,10 +6,11 @@ Nosso projeto tem como objetivo otimizar as atividades dentro de uma farmácia, 
 ## Integrantes
 
 * Gustavo Silva Rossetti
-* Sibelle Mendes Diniz
-* Marcos Paulo De Oliveira
-* Lucas Peres Dias Costa
 * Luana Paula Ramos de Souza
+* Lucas Peres Dias Costa
+* Marcos Paulo De Oliveira
+* Sibelle Mendes Diniz
+
 
 
 ## Professor
