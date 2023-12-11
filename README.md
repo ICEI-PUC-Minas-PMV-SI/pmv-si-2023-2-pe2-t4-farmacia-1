@@ -191,7 +191,7 @@ ___
 
 Possibilidades: O banco de dados NoSQL visa aumentar a expansão horizontal, para que mais servidores possam ser adicionados e lidar com mais cargas de trabalho, diferente do banco de dados relacional, o banco de dados NoSQL não requer um sistema rígido. Podem ser adicionados novos campos ou tipos de dados com o desenvolvimento do sistema sem migrar soluções existentes. Alguns bancos de dados NoSQL foram projetados para fornecer consulta com alta taxa de transmissão e baixa latência, especialmente em comparação com o banco de dados relacional. 
 
- Riscos: Para obter maior disponibilidade ou tolerância a falhas alguns bancos de dados NoSQL, podem ter dados inconsistentes. O uso do banco de dados NoSQL pode exigir conhecimento especial que os desenvolvedores podem não ter. Sendo necessário um treinamento mais longo e caro. Se o sistema for migrado do banco de dados de relacionamento paro o banco de dados NoSQL, pode ser um processo complexo e que consome tempo. 
+Riscos: Para obter maior disponibilidade ou tolerância a falhas alguns bancos de dados NoSQL, podem ter dados inconsistentes. O uso do banco de dados NoSQL pode exigir conhecimento especial que os desenvolvedores podem não ter. Sendo necessário um treinamento mais longo e caro. Se o sistema for migrado do banco de dados de relacionamento paro o banco de dados NoSQL, pode ser um processo complexo e que consome tempo. 
 
 Impactos: O uso do banco de dados NoSQL pode envolver custos adicionais de permissão ou consultores especializados. Se o banco de dados NoSQL for selecionado corretamente e usado de maneira eficaz, ele poderá melhorar significativamente o desempenho do sistema. No entanto, se o banco de dados NoSQL for escolhido erroneamente, isso poderá levar a grandes problemas de desempenho. O banco de dados NoSQL pode exigir manutenção diferente da de banco de dados relacionais, isso pode incluir diferentes configurações de bancos de dados de backup, vigilância e ajuste. 
 
@@ -261,7 +261,13 @@ ___
 **7. Conclusão** 
 
 
-O presente trabalho aborda a automação do processo de negócio relacionado a uma farmácia, visando aprimorar a eficiência operacional e a experiência do usuário. A etapa em foco concentrou-se na automatização dos processos modelados, utilizando a ferramenta Sydle One, uma plataforma de desenvolvimento low code. O desenvolvimento incluiu a criação de papéis, a programação de scripts, e a execução de instâncias dos processos. Como resultado, observamos uma significativa melhoria na fluidez e gestão dos procedimentos, contribuindo para uma operação mais eficiente e um atendimento mais ágil aos clientes. Este avanço reflete diretamente na qualidade do serviço prestado pela farmácia, demonstrando a viabilidade e o impacto positivo da automação no contexto proposto.
+O presente trabalho aborda a automação do processo de negócio relacionado a uma farmácia, visando aprimorar a eficiência operacional e a experiência do usuário. A etapa em foco concentrou-se na automatização dos processos modelados, utilizando a ferramenta Sydle One, uma plataforma de desenvolvimento low code. O desenvolvimento incluiu a criação de papéis, a programação de scripts, e a execução de instâncias dos processos. 
+
+A automatização dos processos de cadastramentos de clientes e medicamentos resultou em uma melhor eficiência nos procedimentos operacionais, evitando erros e acúmulo de informações desnecessárias e repetidas.  
+
+No processo de vendas houve um aumento na agilidade do atendimento, melhorou o processamento de pedidos e facilitou uma coleta de dados sobre os hábitos dos clientes, melhorando o atendimento.
+
+Como resultado, observamos uma significativa melhoria na fluidez e gestão dos procedimentos, contribuindo para uma operação mais eficiente e um atendimento mais ágil aos clientes. Este avanço reflete diretamente na qualidade do serviço prestado pela farmácia, demonstrando a viabilidade e o impacto positivo da automação no contexto proposto.
 
 ___
 **REFERÊNCIAS** 
