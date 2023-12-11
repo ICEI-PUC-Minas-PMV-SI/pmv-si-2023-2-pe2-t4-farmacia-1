@@ -27,13 +27,13 @@ Belo Horizonte – MG – Brasil
 
 <gu.rossetti@hotmail.com>
 
-<sibelle.diniz@sga.pucminas.com>
-
-<marcos.oliveira.1465085@sga.pucminas.br>
+<lprsouza@sga.pucminas.br>
 
 <lucaspdcosta@gmail.com>
 
-<lprsouza@sga.pucminas.br>
+<marcos.oliveira.1465085@sga.pucminas.br>
+
+<sibelle.diniz@sga.pucminas.com>
 
 ---
 
